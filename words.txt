@@ -1,0 +1,7 @@
+sushi
+pizza
+lasagna
+banana
+shaurma
+burger
+borsch
